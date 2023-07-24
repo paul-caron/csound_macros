@@ -5,6 +5,5 @@ Score macros that can make life easier for programming music scores for csound.
 Simply include the macros with a similar line of code at the top of the score file
 
 ```
-#include "/path-to-macros/frequencies_macros.sco
+#include "frequencies_macros.sco"
 ```
-
