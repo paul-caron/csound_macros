@@ -1,2 +1,10 @@
-# csound_macros
-useful score macros
+# Csound Macros
+Score macros that can make life easier for programming music scores for csound.
+
+## Include The Macros
+Simply include the macros with a similar line of code at the top of the score file
+
+```
+#include "/path-to-macros/frequencies_macros.sco
+```
+
