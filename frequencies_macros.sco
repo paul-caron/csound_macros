@@ -3,7 +3,7 @@
  */
 
 #define C0 #16.35#
-#define CSharp0#17.32#
+#define CSharp0 #17.32#
 #define D0 #18.35#
 #define DSharp0 #19.45#
 #define E0 #20.60#
