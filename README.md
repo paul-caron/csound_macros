@@ -13,5 +13,5 @@ Simply include the macros with a similar line of code at the top of the score fi
 The macros contain definitions for musical notes and can be used in the score as such:
 
 ```
-i 1 0 1 $A4. ; assuming that p4 is a frequency parameter for instrument 1, then it will play A4 (440)
+i 1 0 1 $A4. ; assuming that p4 is a frequency parameter for instrument 1, then it will play A4 (440Hz)
 ```
